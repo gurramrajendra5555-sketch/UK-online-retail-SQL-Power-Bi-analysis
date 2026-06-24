@@ -63,8 +63,7 @@ Key Metrics:
 - Total Orders: 19,960
 - Total Customers: 4,339
 
----
-
+---![Executive Dashboard](Dashboard_Screenshots/Executive%20performance%20Dashboard.png)
 ### 2. Product Performance Dashboard
 
 Key Insights:
@@ -74,7 +73,7 @@ Key Insights:
 - Revenue Contribution by Product
 - Product Performance Trends
 
----
+---![Product Dashboard](Dashboard_Screenshots/Product%20Performance%20Dashboard.png)
 
 ### 3. Customer Analysis Dashboard
 
@@ -85,7 +84,7 @@ Key Insights:
 - Revenue Contribution by Segment
 - Missing vs Identified Customers
 
----
+---![Customer Dashboard](Dashboard_Screenshots/Customer%20Analysis%20Dashboard.png)
 
 ### 4. Geographic & Market Insights Dashboard
 
@@ -96,7 +95,7 @@ Key Insights:
 - Average Order Value by Country
 - Market Contribution Analysis
 
----
+---![Geographic Dashboard](Dashboard_Screenshots/Geographic%20%26%20Market%20Dashboard.png)
 
 ## Key Business Insights
 
